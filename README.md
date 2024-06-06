@@ -1,8 +1,8 @@
-[![MasterHead](https://www.canva.com/design/DAGHXVEGtD4/bXhfeYk5KNsCod_saL36eQ/edit?utm_content=DAGHXVEGtD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![MasterHead](https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png)
 
 <h1 align="center">Hi 👋, I'm Avadhi Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="https://iconscout.com/lottie-animation/front-end-6118720">
+<img align="right" alt="Coding"  width="400"   src="[[https://iconscout.com/lottie-animation/front-end-6118720](https://pin.it/1eyvXOngb)](https://pin.it/1eyvXOngb)">
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avadhi15&label=Profile%20views&color=0e75b6&style=flat" alt="avadhi15" /> </p>
