@@ -1,8 +1,8 @@
-[![MasterHead](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)]
+[![MasterHead](https://www.canva.com/design/DAGHXVEGtD4/bXhfeYk5KNsCod_saL36eQ/edit?utm_content=DAGHXVEGtD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Avadhi Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="https://iconscout.com/lottie-animation/front-end-6118720">
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avadhi15&label=Profile%20views&color=0e75b6&style=flat" alt="avadhi15" /> </p>
