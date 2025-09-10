@@ -1,38 +1,41 @@
 <!-- Banner -->
-![MasterHead](https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png)
+<!--![MasterHead](https://s3.amazonaws.com/thumbnails.venngage.com/template/b62908cb-3cf7-4ae9-8c38-46d078a11d31.png)-->
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Avadhi Verma" width="200" style="border-radius:50%"/>
+  <img src="https://raw.githubusercontent.com/avadhi15/avadhi15/main/bg.png" alt="Avadhi Verma" width="1010" style="border-radius:50%"/>
 </p>
 
 <h1 align="center">Hey there, I'm Avadhi 🚀</h1>
-<h3 align="center">Frontend Developer • MERN Explorer • Coffee-Powered Coder</h3>
+<h3 align="center"> Next.js Developer • MERN Explorer • Coffee-Powered Coder</h3>
 
 ---
 
 ### 🙋 About Me  
-💡 I love turning **ideas into interactive UIs** that people actually enjoy using.  
-🛠 Currently diving deeper into the **MERN stack** to go full-stack.  
-🎯 Goal for 2025: Build projects that solve **real-world problems**, not just tutorials.  
-⚡ Fun fact: I probably debug more than I code (but that’s where the magic happens ✨).  
+-   💻 **Building** with the MERN stack and Next.js to deliver high-performance, full-stack solutions.
+-   🧠 **Teaching** the art of code and best development practices to aspiring tech enthusiasts.
+-   🛠️ **Working on** projects that translate innovative ideas into functional, interactive experiences.
+-   🤝 **Open to** collaboration and sharing knowledge with the dev community.
 
 ---
 
 ### 🌍 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/avadhi-verma" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://twitter.com/_aviiiiiiii_" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://instagram.com/_._aviiiiiiiii_._" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://leetcode.com/avadhiverma15" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/avadhiverma2002" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://leetcode.com/avadhiverma15" target="_blank"><img src="https://simpleicons.org/icons/leetcode.svg?color=FFA116" height="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/avadhiverma2002" target="_blank"><img src="https://simpleicons.org/icons/geeksforgeeks.svg?color=2E8D46" height="40"/></a>
 </p>
+
+
 
 ---
 
 ### 🛠 Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,java,python,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express&perline=8" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,cpp,java,python,git,vscode" />
 </p>
+
 
 ---
 
